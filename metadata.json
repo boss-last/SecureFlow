@@ -1,0 +1,6 @@
+{
+  "name": "SecureFlow — Plateforme de Sécurité d'API",
+  "description": "Plateforme d'audit et de sécurisation d'API REST, détection des vulnérabilités OWASP Top 10 (BOLA, injections SQL, gestion des jetons) et durcissement Django REST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
